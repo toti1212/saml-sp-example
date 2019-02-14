@@ -1,0 +1,20 @@
+{
+  "name": "saml-sp-example",
+  "version": "1.0.0",
+  "description": "Example ServierProvider to test any broker saml",
+  "main": "./lib",
+  "repository": "https://github.com/toti1212/saml-sp-example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sp",
+    "idp",
+    "saml"
+  ],
+  "author": "Rodrigo Suárez <rodrigosrz12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "saml2-js": "^2.0.3"
+  }
+}
